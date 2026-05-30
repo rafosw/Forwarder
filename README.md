@@ -1,8 +1,8 @@
 # Forwarder
 
-Forwarder is a lightweight TCP port forwarding utility built with C# and Windows Forms.\
+Forwarder is a lightweight TCP port forwarding utility built with C#.
 
-<img src="https://github.com/rafosw/APKdevastate/blob/master/ss/Screenshot_2.png" width="600" height="350" />
+<img src="https://github.com/rafosw/Forwarder/blob/main/ss/forwarder.png?raw=true" width="600" height="350" />
 
 ## Features
 
