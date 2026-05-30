@@ -1,8 +1,0 @@
-C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\Forwarder\obj\Debug\Forwarder.csprojResolveAssemblyReference.cache
-C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\Forwarder\obj\Debug\Forwarder.Properties.Resources.resources
-C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\Forwarder\obj\Debug\Forwarder.csproj.GenerateResource.Cache
-C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\Forwarder\bin\Debug\Forwarder.exe.config
-C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\Forwarder\bin\Debug\Forwarder.exe
-C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\Forwarder\bin\Debug\Forwarder.pdb
-C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\Forwarder\obj\Debug\Forwarder.exe
-C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\Forwarder\obj\Debug\Forwarder.pdb
